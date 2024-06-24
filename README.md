@@ -1,4 +1,4 @@
-# VanillaHorizon
+# sfDesat's Vanilla Horizon
 This modpack is designed to be vanilla+ and should be seen as an **addon** for the vanilla design/experience. This modpack can be used as a foundation for your personal modpack._
 
 VanillaHorizon showcases what Minecraft could have been, with new world generation and Distant Horizons. It is build around immersion using sound, animations and small details.
